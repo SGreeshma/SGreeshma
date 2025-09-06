@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I am Greeshma Somarouthu
 🎓 Undergraduate in Computer Science and Engineering at SWEC'26<br>💻 Skilled in Python, DSA, SQL<br>🤖 Hands-on experience with AI/ML based projects <br>☁️ Exploring Data Science, Cloud, and Networking<br>🚀 Passionate about solving problems through technology and continuously learning new skills<br>📊 Interested in Financial Investments 
 
 
